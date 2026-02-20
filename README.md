@@ -1,2 +1,1 @@
-Helllo Git
-learning Git basics
+Edited directly on Github
